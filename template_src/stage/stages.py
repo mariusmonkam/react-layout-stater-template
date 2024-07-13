@@ -1,0 +1,30 @@
+# create a dictionary of stages
+
+stages = [
+    "Creating project directory",
+    "Changing to project directory",
+    "Creating React app with TypeScript template",
+    "Installing ajv package",
+    "Installing Redux Toolkit",
+    "Creating components directory",
+    "Generating CSS for Header component",
+    "Generating Logo component",
+    "Generating Navbar component",
+    "Generating Header component",
+    "Generating Sidebar component",
+    "Generating Sidebar CSS",
+    "Generating Home component",
+    "Generating Home CSS",
+    "Generating Footer component",
+    "Generating Footer CSS",
+    "Generating Redux store",
+    "Generating root reducer",
+    "Generating Redux slice",
+    "Generating Counter component",
+    "Generating About component",
+    "Generating CSS for About component",
+    "Generating Contact component",
+    "Generating CSS for Contact component",
+    "Replacing App.tsx contents",
+    "Starting development server"
+]
