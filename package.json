@@ -1,6 +1,6 @@
 {
   "name": "react-layout-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin": {
     "react-layout-starter": "./index.js"
   },
@@ -8,6 +8,7 @@
   "main": "index.js",
   "scripts": {
     "template": "node index.js",
+    "postinstall": "pip install -r requirements.txt",
     "test": "test"
   },
   "repository": {
