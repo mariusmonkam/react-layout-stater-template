@@ -55,9 +55,9 @@ my-react-app/                 # Root directory of your React project
 
 ## Getting Started
 
-To use this template:
+To use this template, you have two options:
 
-### Cloning the Repository
+### 1. Cloning the Repository
 
 1. Clone the repository to your local machine:
 
@@ -66,27 +66,35 @@ To use this template:
    cd react-layout-template
    ```
 
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-### Running the Template
-
-3. Generate a new React project with TypeScript template:
+2. Generate a new React project with TypeScript template:
 
    ```bash
    npm run template
    ```
 
-4. Start the development server:
+   The system will prompt you to provide the name of the project.
+
+3. Start the development server:
 
    ```bash
    npm start
    ```
 
-   This will launch your React application in development mode.
+### 2. Global Installation
+
+1. Install the package globally:
+
+   ```bash
+   npm install -g react-layout-template
+   ```
+
+2. Run the command to generate a new project:
+
+   ```bash
+   react-layout-starter
+   ```
+
+   The system will prompt you to provide the name of the project.
 
 ## Customizing Your Project
 
