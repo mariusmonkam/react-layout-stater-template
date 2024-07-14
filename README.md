@@ -1,6 +1,6 @@
-# React Layout Starter Template
+# React Layout Template
 
-React Layout Starter Template is a comprehensive template package for React projects. It provides ready-to-use header, footer, sidebar, navbar components, Redux state management, and routing setup for efficient website layout creation.
+React Layout Template is a comprehensive template package for React projects. It provides ready-to-use header, footer, sidebar, navbar components, Redux state management, and routing setup for efficient website layout creation.
 
 ## Features
 
@@ -62,8 +62,8 @@ To use this template:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/react-layout-starter-template.git
-   cd react-layout-starter-template
+   git clone https://github.com/your-username/react-layout-template.git
+   cd react-layout-template
    ```
 
 2. Install dependencies:
@@ -128,7 +128,7 @@ To add a logo image to the header:
 
 ## Contributing
 
-Contributions and suggestions are welcome! If you encounter any issues or have ideas for enhancements, please open an issue on the [GitHub repository](https://github.com/mariusmonkam/react-layout-starter-template).
+Contributions and suggestions are welcome! If you encounter any issues or have ideas for enhancements, please open an issue on the [GitHub repository](https://github.com/mariusmonkam/react-layout-template).
 
 ## License
 

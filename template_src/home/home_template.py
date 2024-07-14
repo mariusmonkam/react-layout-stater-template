@@ -9,7 +9,7 @@ import Counter from "../components/Counter";
 const Home: React.FC = () => {
   const handleGetStartedClick = () => {
     window.location.href =
-      "https://github.com/mariusmonkam/react-layout-stater-template";
+      "https://github.com/mariusmonkam/react-layout-template";
   };
 
   return (
@@ -19,7 +19,7 @@ const Home: React.FC = () => {
         <div className="hero-text">
           <div className="hero-title">
             {" "}
-            Jumpstart Your React Projects with React Layout Starter Template
+            Jumpstart Your React Projects with React Layout Template
           </div>
           <div className="hero-subtitle">
             <div className="feature-columns">
