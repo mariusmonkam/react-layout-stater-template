@@ -2,7 +2,7 @@
   "name": "react-layout-template",
   "version": "1.0.0",
   "bin": {
-    "react-layout-starter": "index.js"
+    "react-layout-starter": "./index.js"
   },
   "description": "React Layout Stater Template: A comprehensive template package for React project, providing ready-to-use header, footer, sidebar, and navbar components for easy and efficient website layout creation",
   "main": "index.js",
